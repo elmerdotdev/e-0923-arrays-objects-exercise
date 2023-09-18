@@ -1,1 +1,3 @@
-# e-0923-arrays-objects-exercise
+# Arrays and Objects Basics
+
+- Test each exercise by running *node ex01.js*
