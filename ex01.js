@@ -5,3 +5,6 @@
  * 
  * Expected no. of lines: 2
  */
+
+let names = ["John", "Joe", "Mark", "Moe", "May", "David", "Jen", "Yu", "Zhang", "Chen"]
+console.log(array)

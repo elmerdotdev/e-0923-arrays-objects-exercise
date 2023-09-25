@@ -11,3 +11,13 @@
  * 
  * console.log(name)
  */
+
+
+let pet = {
+  name : 'Kayla',
+  breed : 'rottweiler',
+  age : 4,
+  hobby : 'rolling around'
+}
+
+console.log(pet.name)

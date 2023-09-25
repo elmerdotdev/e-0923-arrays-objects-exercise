@@ -12,3 +12,12 @@
  * student.greeting()
  * 
  */
+
+let student = {
+  firstName: "Elmer",
+  greeting: function() {
+    return `Hello world!`
+  }
+}
+
+console.log(student.greeting())
